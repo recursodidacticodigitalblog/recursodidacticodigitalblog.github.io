@@ -27,7 +27,7 @@ Después de identificar el alcance del proyecto continua en detallar las princip
 **Procesos de aceptación:** Es la formalidad que se lo otorga para la aprobación formal y final del proyecto comprometido. Tomando en cuenta una revisión para validar los resultados entregados. Cabe mencionar que dependerá del acuerdo que se tuvieron anteriormente de los entregables pactados y tiempos. Por ejemplo: entregables o subentregables. EDT (Estructura de Desglose del Trabajo)
 
 ### Actividad 4: Empareja los elementos del alcance del proyecto
-- **Objetivo:** _Identificar correctamente los elementos que componen la determinación del alcance de un proyecto, según el contenido de la sección 1.2.2._
-- **Instrucciones:** _Relaciona cada componente con su descripción._
+- **Objetivo:** _Identificar correctamente los elementos que componen la determinación del alcance de un proyecto, según el contenido de la sección 1.2.2_
+- **Instrucciones:** _Relaciona cada componente con su descripción_
 
 <iframe src="https://learningapps.org/watch?v=ps6k8dz4t25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

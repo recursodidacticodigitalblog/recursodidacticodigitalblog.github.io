@@ -15,18 +15,18 @@ adecuada del tiempo permite:
 
 - **Reducir costos:** Al optimizar el uso del tiempo, se minimizan los tiempos 
 muertos y se maximiza la productividad, lo que se traduce en una reducción de 
-costos operativos y de recursos. 
+costos operativos y de recursos 
 - **Mejorar la calidad:** Un proyecto bien planificado y ejecutado en tiempo y forma 
 tiene mayor probabilidad de cumplir con los estándares de calidad establecidos, 
-reduciendo la cantidad de errores y reprocesos. 
+reduciendo la cantidad de errores y reprocesos 
 - **Aumentar la satisfacción del cliente:** Entregar el proyecto en el plazo 
 acordado y cumpliendo con las expectativas del cliente genera satisfacción y 
 confianza, fortaleciendo la relación con los clientes y mejorando la reputación 
-de la organización. 
+de la organización 
 - **Reducir el estrés y la ansiedad:** Una buena gestión del tiempo permite 
 mantener un control sobre el proyecto, lo que reduce el estrés y la ansiedad 
 entre los miembros del equipo, fomentando un ambiente de trabajo más 
-positivo y productivo.
+positivo y productivo
 
 ### Elementos clave de la gestión del tiempo en proyectos
 1. **Planificación:** La planificación del tiempo implica definir los objetivos del 

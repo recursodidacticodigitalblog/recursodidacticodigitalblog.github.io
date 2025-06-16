@@ -22,7 +22,7 @@ Unos de los elementos más usados para la administración y evaluación del proy
 Otra etapa es la programación del proyecto, los recursos que se le asignará al proyecto en cada uno de sus etapas y actividades. Para ello, es necesario que se lleve a cabo el seguimiento y control para maximizar la optimización de los recursos.
 
 #### Actividad 7: Memorama
-- **Instrucciones:** _Encuentra las palabras relacionadas con la verificacion de alcance del siguiente memorama._
+- **Instrucciones:** _Encuentra las palabras relacionadas con la verificacion de alcance del siguiente memorama_
 
 <iframe src="https://learningapps.org/watch?v=p07z64myk25" style="border:0px;width:100%;height:700px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
@@ -33,6 +33,6 @@ Otra etapa es la programación del proyecto, los recursos que se le asignará al
  -->
 
 #### Actividad 8: Sopa de letras
-- **Instrucciones:** _Ingresa al siguiente enlace y realiza la actividad de sopa de letras._
+- **Instrucciones:** _Ingresa al siguiente enlace y realiza la actividad de sopa de letras_
 [Da clic para ir a la actividad](https://puzzel.org/es/wordseeker/play?p=-ONhaaRybVJAnKtYYNh3)
 

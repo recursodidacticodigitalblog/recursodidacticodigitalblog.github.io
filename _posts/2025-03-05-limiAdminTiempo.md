@@ -33,8 +33,8 @@ Si bien la administración del tiempo es una herramienta fundamental para el éx
 ### Actividad 11: Completa los espacios en blanco - fundamentos de la gestión del tiempo
 
 - **Instrucciones:** 
-  - _1.	A continuación, se presentan una serie de anagramas. Cada uno corresponde a una palabra clave relacionada con las limitaciones en la administración del tiempo en proyectos._
-  - _2.	Tu tarea es descifrar cada anagrama y escribir la palabra correcta._
+  - _A continuación, se presentan una serie de anagramas. Cada uno corresponde a una palabra clave relacionada con las limitaciones en la administración del tiempo en proyectos_
+  - _Tu tarea es descifrar cada anagrama y escribir la palabra correcta_
 
 <iframe style="max-width:100%" src="https://wordwall.net/es/embed/b8ed43b60dfa4ee2a856f0f9b872ef6d?themeId=1&templateId=38&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 

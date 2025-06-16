@@ -38,7 +38,7 @@ Para alcanzar el éxito organizacional es primordial la definición de objetivos
 
 
 ### Actividad 1. Cuestionario
-- **Objetivo:** _Evaluar de forma lúdica y participativa la comprensión sobre la concepción y planteamiento inicial de proyectos, reforzando conceptos clave como necesidad, planificación, alineación estratégica y propósito._
+- **Objetivo:** _Evaluar de forma lúdica y participativa la comprensión sobre la concepción y planteamiento inicial de proyectos, reforzando conceptos clave como necesidad, planificación, alineación estratégica y propósito_
 - **Instrucciones:** _Contestar las siguientes preguntas_
 
 <iframe src="https://learningapps.org/watch?v=pw26q32pk25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

@@ -20,7 +20,7 @@ Para poder definir el alcance de un proyecto informático, primero es necesario 
 
 ### Actividad 3. Emparejando herramientas de recopilación de requisitos
 
-- **Instrucciones:** _Emparejar las tarjetas naranjas de herramientas de recopilación de requisitos con su respectiva tarjeta azule de descripción correspondiente de su uso de la herramienta y la aplicación en un proyecto informático._
+- **Instrucciones:** _Emparejar las tarjetas naranjas de herramientas de recopilación de requisitos con su respectiva tarjeta azule de descripción correspondiente de su uso de la herramienta y la aplicación en un proyecto informático_
 Definir el propósito y los objetivos del requerimiento
 
 <iframe src="https://learningapps.org/watch?v=p35a06rfn25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

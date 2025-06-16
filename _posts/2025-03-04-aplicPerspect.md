@@ -218,9 +218,9 @@ Para el sector de servicios en el caso específico para el desarrollo de IT se h
   > Esto permite a los miembros del equipo desarrollar habilidades para estimar el tiempo de manera precisa, planificar su trabajo de manera efectiva y utilizar herramientas tecnológicas para optimizar su desempeño (Levin, 2018, p. 105).
 
 ## Actividad 10: Completa los espacios en blanco - fundamentos de la gestión del tiempo
-- **Objetivo:** _Relacionar correctamente las principales herramientas, técnicas y sectores aplicables a la gestión del tiempo con sus respectivas descripciones y usos en proyectos reales, con el fin de consolidar los conocimientos adquiridos en la unidad 1.4.2._
+- **Objetivo:** _Relacionar correctamente las principales herramientas, técnicas y sectores aplicables a la gestión del tiempo con sus respectivas descripciones y usos en proyectos reales, con el fin de consolidar los conocimientos adquiridos en la unidad 1.4.2_
 - **Instrucciones:** 
-  - _1.	Lee cuidadosamente los conceptos que aparecen en la columna A (izquierda) y las descripciones o aplicaciones en la columna B (derecha)._
-  - _2.	Empareja cada elemento de la columna A con la opción que mejor lo describa en la columna B._
+  - _1.	Lee cuidadosamente los conceptos que aparecen en la columna A (izquierda) y las descripciones o aplicaciones en la columna B (derecha)_
+  - _2.	Empareja cada elemento de la columna A con la opción que mejor lo describa en la columna B_
 
 [Da clic para ir a la actividad](https://puzzel.org/es/matching-pairs/play?p=-OQWyjBSH2-ncq2lBaKZ)

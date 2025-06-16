@@ -13,7 +13,6 @@ La elaboración de la **Estructura de Desglose del Trabajo (EDT)** sigue un enfo
 
 A continuación, se detallan los elementos clave de este proceso aplicado a proyectos informáticos:
 
-- Principales entradas de creación para crear la EDT: 
 - Directrices para la gestión del alcance
 - Alcances aprobados junto con sus restricciones
 - Lista detallada de requisitos
