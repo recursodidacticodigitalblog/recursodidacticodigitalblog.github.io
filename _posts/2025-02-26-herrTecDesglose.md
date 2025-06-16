@@ -7,7 +7,7 @@ categories: [Unidad Temática 1 - Inicio de un proyecto, 1.3 Estructura de desgl
 ---
 Toda empresa debe administrar correctamente sus actividades para poder identificar las oportunidades, debilidades, oportunidades y amenazas en las que su empresa se encuentra. La planificación, organización y el constante control se puede comprender como las etapas  necesarias  para llevar con éxito la gestión de la empresa entre ellos, la gestión del trabajo.
 
-## Técnicas de desglose del trabajo
+### Técnicas de desglose del trabajo
 Conocer el proceso que permita dividir en componentes pequeños manejables que nos permita observar los componentes en pequeños y a la vez, que se pueda integrar con el todo del proyecto. Los componentes pequeños solo es con la idea que sea puedan manejar mejor.
 
 En el desglose se debe incluir el cien por ciento del trabajo ordenando lógicamente las etapas, fases o módulos del proyecto.
@@ -42,7 +42,7 @@ En el paquete “Desarrollo del módulo de autenticación”:
 
 > Esta herramienta reduce ambigüedades y mejora la coordinación del equipo (Lock, 2020, p. 321)
 
-#### Actividad: Verdadero o falso – desglose y gestión del trabajo
+### Actividad: Verdadero o falso – desglose y gestión del trabajo
 - **Instrucciones:** _Lee cada enunciado y escribe **V** si consideras que la afirmación es verdadera o **F** si es falsa, según lo aprendido en la sección 1.3.2_
 
 <iframe src="https://wordwall.net/play/92316/961/375" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

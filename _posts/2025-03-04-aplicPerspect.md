@@ -7,11 +7,11 @@ math: true
 ---
 Dependiendo del sector económicos los proyectos pueden generar diferentes perspectivas. No es lo mismo un proyecto en el secotr de contrucción que un proyecto de IT. Para la gestión de tiempo en la insudtria de la construcción se puede tomar como herramienta el PERT /CPM, con herramienta se optimiza la utilización de tiempo para el desarrollo de actividades, evitando retrasos. 
 
-## PERT Costo
+### PERT Costo
 Técnica de gestión de proyectos que se utiliza para planificar y controlar el tiempo de un proyecto, ayudando a los gestores a identificar el camino crítico y a estimar la duración total del proyecto. Esta técnica es especialmente útil para proyectos complejos con incertidumbre en los tiempos de ejecución.
 PERT-costo amplía el análisis tradicional de PERT al incluir el análisis de costos asociados con las actividades del proyecto.
 
-### Problema 1 - Distribución de actividades
+#### Problema 1 - Distribución de actividades
 A partir de la tabla de precedencias, duración en semanas y costos en millones de pesos. Realizar el grafo PERT correspondiente a la duración normal del proyecto, las actividades que componen el camino crítico y determinar el costo total del proyecto considerando que cada semana supone un costo de 25 millones.
 ![Tabla 1: Precedencias, duración en semanas y costos en millones de pesos](../assets/img/contentImgs/TablaPert.png "Tabla para PERT")
 
@@ -45,12 +45,12 @@ Para el sector de servicios en el caso específico para el desarrollo de IT se h
 
 Las organizaciones dedicadas a la producción de bienes exigen la planeación, el control, dirección de la producción y la logística.
 
-## Costo mínimo
+### Costo mínimo
 El método del costo mínimo o método de los mínimos costos es un algoritmo desarrollado con el objetivo de resolver problemas de transporte o distribución, arrojando mejores resultados que métodos como el de la esquina noroeste, dado que se enfoca en las rutas que presentan menores costos.
 
 Dado que se trata simplemente de la asignación de la mayor cantidad de unidades posibles (sujeta a las restricciones de oferta y/o demanda) a la celda menos costosa de toda la matriz hasta finalizar el método.
 
-### Algoritmo
+#### Algoritmo
 
 - **Paso 1**:
 De la matriz se elige la ruta (celda) menos costosa (en caso de un empate, este se rompe arbitrariamente) y se le asigna la mayor cantidad de unidades posible, cantidad que se ve restringida ya sea por las restricciones de oferta o de demanda. En este mismo paso se procede a ajustar la oferta y demanda de la fila y columna afectada, restándole la cantidad asignada a la celda.
@@ -60,7 +60,7 @@ En este paso se procede a eliminar la fila o destino cuya oferta o demanda sea 0
 Una vez en este paso existen dos posibilidades, la primera que quede un solo renglón o columna, si este es el caso se ha llegado al final el método, «detenerse».
 La segunda es que quede más de un renglón o columna, si este es el caso iniciar nuevamente el «Paso 1».
 
-### Problema 1. Distribución de minerales
+#### Problema 1. Distribución de minerales
 Una empresa minera tiene 3 almacenes A (oro), B (plata) y C (bronce) con diferentes cantidades de minerales disponibles y quiere minimizar costos al enviar los minerales a cuatro zonas, a continuación se muestra la oferta, demanda y los costos en las siguientes tablas:
 
 | Oferta  | Oro | Plata | Bronce |
@@ -122,11 +122,11 @@ $$
 CT = 4(40) + 5(20) + 2(10) + 1(50) + 1(60) = 390
 $$
 
-## Esquina Noroeste
+### Esquina Noroeste
 
 Este método comienza con la formulación del problema en forma de una matriz, donde las filas representan las fuentes y las columnas los destinos. Después, el algoritmo comienza en la esquina noroeste de la tabla. A continuación, te mostraré cómo puedes aplicar este método en tu empresa.
 
-### Algoritmo
+#### Algoritmo
 
 - **Paso 1**:
 En la esquina noroeste de la tabla, asignamos la mayor cantidad de unidades que sea posible, limitada por las restricciones tanto de oferta como de demanda. Luego, ajustamos las cantidades disponibles en la fila y columna correspondientes, restando la cantidad asignada en esa celda.
@@ -136,7 +136,7 @@ En este paso, eliminamos la fila o columna cuya oferta o demanda sea cero despu�
 Una vez alcanzado este paso, hay dos posibilidades: la primera es que quede solo una fila o columna; en ese caso, el método ha llegado a su conclusión y se detiene.
 La segunda posibilidad es que queden más de una fila o columna. En este caso, se reinicia el "Paso 1".
 
-### Problema 1. Distribución de minerales
+#### Problema 1. Distribución de minerales
 Una empresa minera tiene 3 almacenes A (oro), B (plata) y C (bronce) con diferentes cantidades de minerales disponibles y quiere minimizar costos al enviar los minerales a cuatro zonas, a continuación se muestra la oferta, demanda y los costos en las siguientes tablas:
 
 | Oferta  | Oro | Plata | Bronce |
@@ -205,11 +205,11 @@ $$
 
 Para el sector de servicios en el caso específico para el desarrollo de IT se hace necesario utilizar metodologias agiles como **scrum, espiral, V, etc**.
 
-## Aplicaciones prácticas de la gestión del tiempo
+### Aplicaciones prácticas de la gestión del tiempo
 - **Eventos y producción:** La organización de eventos y la producción de bienes y servicios requieren una coordinación precisa de actividades y recursos para cumplir con los plazos establecidos. 
   > La gestión del tiempo permite planificar y controlar la logística del evento, la asignación de tareas a los miembros del equipo y la gestión de los proveedores (Meredith, Shafer & Mantel, 2017, p. 311).
  
-## Perspectivas de mejora de la gestión del tiempo
+### Perspectivas de mejora de la gestión del tiempo
 - **Optimización de procesos:** La gestión del tiempo no solo se enfoca en cumplir con el cronograma, sino también en identificar áreas de mejora en los procesos del proyecto para reducir el tiempo de ejecución. 
   > Esto implica analizar los flujos de trabajo, eliminar actividades redundantes y aplicar técnicas de mejora continua (Kerzner, 2013, p. 238).
 - **Automatización:** La implementación de herramientas y tecnologías para automatizar tareas repetitivas puede liberar tiempo valioso para actividades más estratégicas y creativas. 
@@ -217,7 +217,7 @@ Para el sector de servicios en el caso específico para el desarrollo de IT se h
 - **Capacitación y desarrollo:** La formación continua del equipo de proyecto en técnicas y herramientas de gestión del tiempo es esencial para mejorar su eficiencia y productividad. 
   > Esto permite a los miembros del equipo desarrollar habilidades para estimar el tiempo de manera precisa, planificar su trabajo de manera efectiva y utilizar herramientas tecnológicas para optimizar su desempeño (Levin, 2018, p. 105).
 
-## Actividad 10: Completa los espacios en blanco - fundamentos de la gestión del tiempo
+### Actividad 10: Completa los espacios en blanco - fundamentos de la gestión del tiempo
 - **Objetivo:** _Relacionar correctamente las principales herramientas, técnicas y sectores aplicables a la gestión del tiempo con sus respectivas descripciones y usos en proyectos reales, con el fin de consolidar los conocimientos adquiridos en la unidad 1.4.2_
 - **Instrucciones:** 
   - _1.	Lee cuidadosamente los conceptos que aparecen en la columna A (izquierda) y las descripciones o aplicaciones en la columna B (derecha)_

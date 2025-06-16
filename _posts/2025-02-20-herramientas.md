@@ -25,14 +25,14 @@ Definir el propósito y los objetivos del requerimiento
 
 <iframe src="https://learningapps.org/watch?v=p35a06rfn25" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-## ¿Cómo levantar los requerimientos de un IT (Information Technology)?
+### ¿Cómo levantar los requerimientos de un IT (Information Technology)?
 
-### Recopilación y definición de requisitos
+#### Recopilación y definición de requisitos
 En esta etapa nos centramos en obtener todos los detalles relacionados con lo que se desea desarrollar: definir cómo debe funcionar, qué características debe incluir y cuáles no deben ser contempladas.
 
 Es fundamental recopilar información directamente de los miembros del equipo, recogiendo sus puntos de vista en función de su experiencia laboral. Este intercambio de ideas permite establecer metas claras y alcanzables dentro de plazos realistas.
 
 Además, se acuerda el tiempo estimado para el desarrollo de cada parte del proyecto, asegurando una planificación coherente y ajustada a las capacidades del equipo.
 
-### Creación de historias de usuario
+#### Creación de historias de usuario
 Como paso final, se crean las historias de usuario. Estas se representan visualmente —por ejemplo, en un pizarrón o herramienta digital— indicando el requerimiento específico, los responsables de su ejecución y el tiempo estimado para su finalización. Esto facilita la organización, asignación de tareas y seguimiento del progreso del proyecto.

@@ -21,7 +21,7 @@ Unos de los recursos que indudablemente se debe de planificar es el tiempo, plas
 Unos de los elementos más usados para la administración y evaluación del proyecto es PERT-Costo y PERT probabilístico. Donde se calcula el desarrollo de cada actividad tomando en cuenta el dinero, tiempo y personal adscrito al proyecto, la importancia radica cual es la ruta crítica para el desarrollo y evaluación del proyecto. Mejorar redacción.
 Otra etapa es la programación del proyecto, los recursos que se le asignará al proyecto en cada uno de sus etapas y actividades. Para ello, es necesario que se lleve a cabo el seguimiento y control para maximizar la optimización de los recursos.
 
-#### Actividad 7: Memorama
+### Actividad 7: Memorama
 - **Instrucciones:** _Encuentra las palabras relacionadas con la verificacion de alcance del siguiente memorama_
 
 <iframe src="https://learningapps.org/watch?v=p07z64myk25" style="border:0px;width:100%;height:700px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -32,7 +32,7 @@ Otra etapa es la programación del proyecto, los recursos que se le asignará al
 <iframe src="https://puzzel.org/es/wordseeker/play?p=-ONhaaRybVJAnKtYYNh3" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
  -->
 
-#### Actividad 8: Sopa de letras
+### Actividad 8: Sopa de letras
 - **Instrucciones:** _Ingresa al siguiente enlace y realiza la actividad de sopa de letras_
 [Da clic para ir a la actividad](https://puzzel.org/es/wordseeker/play?p=-ONhaaRybVJAnKtYYNh3)
 

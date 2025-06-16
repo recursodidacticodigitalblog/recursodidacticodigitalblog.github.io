@@ -25,7 +25,7 @@ El número de reuniones dependerá del tipo de metodología de desarrollo que el
 
 El responsable del proyecto debe conocer las tecnologías, herramienta a aplicar para el desarrollo   del proyecto 
 
-## Salidas generadas
+### Salidas generadas
 Es el documento que detalla el contenido, alcance y responsables de cada entregable o subentregable que sirva de referencia para comprender y comparar con el documento inicial donde se plasmó lo planificado. A partir de ello, se puede comprender la modificación del proyecto y la supervisión del avance del proyecto de manera real.
 
 Un documento adicional donde se establezca los cambios realizados, así como modificación en los tiempos, presupuesto, recursos humanos, materiales y tecnológicos.
