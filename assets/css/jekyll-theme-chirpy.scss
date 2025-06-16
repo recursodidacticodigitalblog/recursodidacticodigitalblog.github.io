@@ -2,9 +2,14 @@
 ---
 
 @use 'main
-{%- if jekyll.environment == 'production' -%}
+{%- if jekyll.environment == ' production ' -%}
   .bundle
 {%- endif -%}
 ';
 
 /* append your custom style below */
+.reference {
+  text-indent: -45px; /* Sangría francesa */
+  margin-left: 40px; /* Margen para el resto del texto */
+  margin-bottom: 15px; /* Espacio entre referencias */
+}
