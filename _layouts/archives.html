@@ -5,12 +5,12 @@ layout: page
 {% include lang.html %}
 
 <div id="archives" class="pl-xl-3">
-  <ul class="list-unstyled">
+  <ul >
     {% assign unidades = site.posts | group_by_exp: 'post', 'post.categories[0] ' | sort: 'name' %}
     {% for unidad in unidades %}
       <li>
         <strong>{{ unidad.name }}</strong>
-        <ul class="list-unstyled ms-3">
+        <ul class="ms-3">
           {% assign temas = unidad.items
             | group_by_exp: 'post', "post.title | split: ' ' | first | split: '.' | slice: 0, 2 | join: '.'"
             | sort: 'name'
@@ -31,7 +31,7 @@ layout: page
                   <strong>{{ tema_post.title }}</strong>
                 </a>
               {% endif %}
-              <ul class="list-unstyled ms-3">
+              <ul class="ms-3">
                 {% assign subtemas = tema.items
                   | where_exp: 'post', 'post.url != tema_post.url'
                   | group_by_exp: 'post', "post.title | split: ' ' | first | split: '.' | slice: 0, 3 | join: '.'"
