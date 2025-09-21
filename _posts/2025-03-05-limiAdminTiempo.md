@@ -2,7 +2,7 @@
 layout: post
 title: "I.IV.III Limitantes de la administración del tiempo"
 date: 2025-03-05 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.4 Gestión del tiempo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.IV Gestión del tiempo]
 
 ---
 Si bien la administración del tiempo es una herramienta fundamental para el éxito de los proyectos, es importante reconocer que existen diversas limitaciones que pueden afectar su efectividad. Estas limitaciones pueden provenir de factores externos o internos al proyecto y deben ser consideradas para una gestión realista del tiempo.

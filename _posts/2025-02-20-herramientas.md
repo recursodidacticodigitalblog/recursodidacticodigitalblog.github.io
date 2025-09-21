@@ -2,7 +2,7 @@
 layout: post
 title: "I.II.I Herramientas de recopilación de requisitos"
 date: 2025-02-20 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.2 Alcance de un proyecto]
+categories: [Unidad Temática I - Inicio de un proyecto, I.II Alcance de un proyecto]
 
 ---
 Para determinar adecuadamente el alcance de un proyecto informático, es fundamental considerar diversos factores clave que afectan directamente su viabilidad y ejecución. Entre ellos se encuentran los **recursos disponibles**, tales como el **tiempo**, el **presupuesto**, los **recursos humanos**, la **infraestructura tecnológica** y el **cumplimiento del marco jurídico vigente**. Este último es especialmente relevante en lo referente a normativas de protección de datos, licencias de software y contratos.

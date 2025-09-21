@@ -2,7 +2,7 @@
 layout: post
 title: "I.III.II Herramientas y técnicas de desglose y gestión del trabajo"
 date: 2025-02-26 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.3 Estructura de desglose de trabajo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.III Estructura de desglose de trabajo]
 
 ---
 Toda empresa debe administrar correctamente sus actividades para poder identificar las oportunidades, debilidades, oportunidades y amenazas en las que su empresa se encuentra. La planificación, organización y el constante control se puede comprender como las etapas  necesarias  para llevar con éxito la gestión de la empresa entre ellos, la gestión del trabajo.

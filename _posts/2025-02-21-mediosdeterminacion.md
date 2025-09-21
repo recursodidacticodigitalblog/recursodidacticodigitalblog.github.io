@@ -2,7 +2,7 @@
 layout: post
 title: "I.II.II Medios de determinación de alcance"
 date: 2025-02-21 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.2 Alcance de un proyecto]
+categories: [Unidad Temática I - Inicio de un proyecto, I.II Alcance de un proyecto]
 
 ---
 Después de identificar el alcance del proyecto continua en detallar las principales etapas del trabajo que se va a realizar para la entrega en tiempo y forma lo comprometido.

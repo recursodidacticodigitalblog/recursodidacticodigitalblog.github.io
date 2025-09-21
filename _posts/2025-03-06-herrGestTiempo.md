@@ -2,7 +2,7 @@
 layout: post
 title: "I.IV.IV Herramientas de gestión del tiempo"
 date: 2025-03-06 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.4 Gestión del tiempo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.IV Gestión del tiempo]
 
 ---
 

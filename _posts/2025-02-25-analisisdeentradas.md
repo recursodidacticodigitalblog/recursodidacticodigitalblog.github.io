@@ -2,7 +2,7 @@
 layout: post
 title: "I.III.I Análisis de entradas – salidas"
 date: 2025-02-25 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.3 Estructura de desglose de trabajo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.III Estructura de desglose de trabajo]
 
 ---
 Para disminuir el nivel incertidumbre de un proyecto tecnológicos es necesario llevar a cabo la gestión del proyecto y se puede auxiliar de herramientas que permitan establecer la factibilidad técnica, así como los recursos a utilizar que se requieran para hacer frente al desarrollo del proyecto.

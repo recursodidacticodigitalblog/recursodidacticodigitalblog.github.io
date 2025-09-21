@@ -2,7 +2,7 @@
 layout: post
 title: "I.III Estructura de desglose de trabajo"
 date: 2025-02-24 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.3 Estructura de desglose de trabajo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.III Estructura de desglose de trabajo]
 
 ---
 Es fundamental tener en cuenta la magnitud del proyecto, y por ello, resulta necesaria una adecuada gestión de las Tecnologías de la Información (TI), que permita supervisar y dar seguimiento al cumplimiento de cada una de las etapas.

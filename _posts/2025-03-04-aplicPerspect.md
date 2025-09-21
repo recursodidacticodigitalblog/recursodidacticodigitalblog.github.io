@@ -2,7 +2,7 @@
 layout: post
 title: "I.IV.II Aplicaciones y perspectivas"
 date: 2025-03-04 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.4 Gestión del tiempo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.IV Gestión del tiempo]
 math: true
 ---
 Dependiendo del sector económicos los proyectos pueden generar diferentes perspectivas. No es lo mismo un proyecto en el secotr de contrucción que un proyecto de IT. Para la gestión de tiempo en la insudtria de la construcción se puede tomar como herramienta el PERT /CPM, con herramienta se optimiza la utilización de tiempo para el desarrollo de actividades, evitando retrasos. 

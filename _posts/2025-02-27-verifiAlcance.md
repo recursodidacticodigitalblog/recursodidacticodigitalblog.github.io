@@ -2,7 +2,7 @@
 layout: post
 title: "I.III.III Verificación de alcance"
 date: 2025-02-27 00:00:00 +0800
-categories: [Unidad Temática 1 - Inicio de un proyecto, 1.3 Estructura de desglose de trabajo]
+categories: [Unidad Temática I - Inicio de un proyecto, I.III Estructura de desglose de trabajo]
 
 ---
 Para la administración de los proyectos es importante de llevar a cabo el proceso de revisión para la aceptación mediante la verificación de su alcance. Mjeorar redacciñon. Asegurandose que los objetivos del proyecto se haya cumplido así como los entregables cumpla con  lineamientos establecidos.
